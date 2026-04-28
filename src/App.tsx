@@ -1,6 +1,6 @@
 import './App.css'
 import { Button } from './components/ui/Button'
-import { PlusIcon } from './icons/Plusicon'
+import { PlusIcon } from './icons/PlusIcon'
 import { ShareIcon } from './icons/ShareIcon'
 
 
